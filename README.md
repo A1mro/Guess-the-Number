@@ -6,4 +6,4 @@ You have three attempts to find the correct number, with hints telling you if yo
 ##  How to Run
 1. Make sure you have **Python** installed on your computer.  
 2. Open a terminal or command prompt in the project folder or aby IDE.  
-3. Run the game and enjoy:
+3. Run the game and enjoy (:
